@@ -187,7 +187,7 @@ desired effect
               <ul class="dropdown-menu">
                 <!-- The user image in the menu -->
                 <li class="user-header">
-                  <img src=/res/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                  <img src="/res/admin/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                   <p>
                     Alexander Pierce - Web Developer
@@ -215,7 +215,7 @@ desired effect
                     <a href="#" class="btn btn-default btn-flat">Profile</a>
                   </div>
                   <div class="pull-right">
-                    <a href="#" class="btn btn-default btn-flat">Sign out</a>
+                    <a href="/admin/logout" class="btn btn-default btn-flat">Sign out</a>
                   </div>
                 </li>
               </ul>
